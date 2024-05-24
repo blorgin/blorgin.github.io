@@ -1,11 +1,11 @@
 body{
-    background-color: #deeaee;
+    background-color: #4ebcd0;
 }
 h1{
-    color: rgb(3, 3, 3);
+    color: rgb(21, 51, 114);
 }
 table, th, td{
-    border: 2px dashed black;
+    border: 5px dashed black;
     text-align: center;
 }
 
